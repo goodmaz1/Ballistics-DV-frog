@@ -1,2 +1,2 @@
-# Ballistics-DV-frog-
+# Ballistics-DV-frog
 Basic Frog Demo of Ballistics
